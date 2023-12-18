@@ -9,6 +9,14 @@
 
 ## Mis Proyectos 🖥️📝:
 
+<a href="https://github.com/AkaBnja/360BarberShopWebsite-MERN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkaBnja&repo=360BarberShopWebsite-MERN&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/AkaBnja/PesonalWebWebsite-MERN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkaBnja&repo=PesonalWebWebsite-MERN&theme=tokyonight" />
+</a>
+
 <a href="https://github.com/AkaBnja/HTML-CSS-Sass-Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkaBnja&repo=HTML-CSS-Sass-Projects&theme=tokyonight" />
 </a>
@@ -16,8 +24,6 @@
 <a href="https://github.com/AkaBnja/JavaScript-Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkaBnja&repo=JavaScript-Projects&theme=tokyonight" />
 </a>
-
-- <a href="https://github.com/AkaBnja/360BarberShopWebsite">360BarberShop - Website</a>
 
 ## Conéctate conmigo ☕:
 
