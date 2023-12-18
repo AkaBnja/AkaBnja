@@ -23,7 +23,7 @@
 
 ¡Hola! Si quieres ponerte en contacto conmigo, no dudes en enviarme un mensaje. Estoy siempre abierto a nuevas oportunidades y colaboraciones.
 
-[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png "Tu LinkedIn")](https://www.linkedin.com/in/benjam%C3%ADn-castillo-21079325a/) [![Correo electrónico](https://img.icons8.com/fluency/48/000000/gmail.png "Tu Correo Electrónico")](mailto:benjamin.cst119@gmail.com) [![Teléfono](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "Tu Número de Teléfono")](tel:998803179)
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png "Tu LinkedIn")](https://www.linkedin.com/in/benjam%C3%ADn-castillo-21079325a/) [![Correo electrónico](https://img.icons8.com/fluency/48/000000/gmail.png "Tu Correo Electrónico")](mailto:benjamin.cst119@gmail.com)
 
 ## Tecnologías conocidas - Tecnologías preferidas 💻:
 
