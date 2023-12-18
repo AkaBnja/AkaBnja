@@ -13,8 +13,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkaBnja&repo=360BarberShopWebsite-MERN&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/AkaBnja/PesonalWebWebsite-MERN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkaBnja&repo=PesonalWebWebsite-MERN&theme=tokyonight" />
+<a href="https://github.com/AkaBnja/AcademyWebsite-MERN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkaBnja&repo=AcademyWebsite-MERN&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/AkaBnja/HTML-CSS-Sass-Projects">
